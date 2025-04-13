@@ -31,60 +31,10 @@
 
 
 ### Stacks
-
-#### Langauges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,js,python,c" />
+    <img src="https://skillicons.dev/icons?i=java,html,js,python,react,spring,mysql,vscode,idea,docker,figma" />
   </a>
 </p>
-
-#### Front-End Frameworks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,materialui,bootstrap" />
-  </a>
-</p>
-
-#### Back-End Frameworks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring" />
-  </a>
-</p>
-
-#### DB
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-
-#### IDE
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea" />
-  </a>
-</p>
-
-#### Etc.
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma" />
-  </a>
-</p>
-
-<!-- ### Course Taken
-
-##### HGU Courses
-
-* Python - programing
-* C - programing
-* Java - programing
-* Logic Design
-* Data Structure
-* Computer Architectures
-* Discrete Mathematics
- -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C5E4E0,50:A4D3B7,100:a0d6b4&height=100&section=footer&text=&fontSize=0" width="100%"/>
