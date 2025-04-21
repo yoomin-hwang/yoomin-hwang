@@ -27,7 +27,7 @@
 | International School of Milan | Primary ~ Secondary School | 2013.Aug ~ 2019.Aug |
 | Handong Global University | Major in AI Computer Science | 2022.Feb ~ Now |
 | PARD | WEB (Front-End) | 2024.Mar ~ 2024.Jul |
-| WALAB | Capstone Design Student | 2024.Jul ~ Now |
+| WALAB | Capstone Design Member | 2024.Jul ~ Now |
 
 
 ### Stacks
