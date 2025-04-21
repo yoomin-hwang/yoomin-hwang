@@ -5,11 +5,12 @@
 
 ### 👋 @yoomin-hwang
 ### 🌱 I’m currently learning Computer Science
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoomin-hwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ## Experience
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoomin-hwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Community
 
