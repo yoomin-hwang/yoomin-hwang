@@ -18,9 +18,9 @@
 </a>
 </div> -->
 
-## Experiences
+## Experience
 
-### Communities
+### Community
 
 | **Name**            | **Position**              | **Duration**                  |
 |----------------------------|------------------------|-------------------------------|
@@ -30,7 +30,7 @@
 | WALAB | Capstone Design Member | 2024.Jul ~ Now |
 
 
-### Stacks
+### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,html,js,python,react,spring,mysql,vscode,idea,docker,figma" />
