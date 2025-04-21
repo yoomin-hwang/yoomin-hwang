@@ -1,7 +1,7 @@
 <div align="center">
 <a id="readme-top"></a>
 <!-- header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C5E4E0,50:A4D3B7,100:a0d6b4&height=200&text=Yoomin's%20GitHub&fontSize=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C5E4E0,50:A4D3B7,100:a0d6b4&height=200&text=Yoomin's%20GitHub&fontSize=40&fontColor=transparent" width="100%"/>
 
 ### 👋 @yoomin-hwang
 ### 🌱 I’m currently learning Computer Science
