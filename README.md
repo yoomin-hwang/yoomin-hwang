@@ -7,18 +7,9 @@
 ### 🌱 I’m currently learning Computer Science
 <br><br>
 
-<!-- gitanimals -->
-<!-- <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/yoomin-hwang"
-      width="600"
-      height=""
-    />
-</a>
-</div> -->
-
 ## Experience
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoomin-hwang)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Community
 
