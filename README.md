@@ -7,7 +7,7 @@
 ### 🌱 I’m currently learning Computer Science
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoomin-hwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoomin-hwang&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ## Experience
